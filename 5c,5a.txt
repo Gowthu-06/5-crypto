@@ -5,4 +5,4 @@ nmap -sV 192.168.1.1
 
 5a
 
-<script>alert(document.cookies)</script>
+<script>alert(document.cookie)</script>
